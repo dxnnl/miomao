@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   }
+   body {
+       color: #77815c;
+       font-family: "Roboto", sans-serif;
+   }
+   header {
+       background-image: url("https://cdn3.ecshop.com.br/mgno9rbpq/product_images/g/879/L583__72395.png");
+       height: 450px;
+       background-size: cover;
+       background-repeat: no-reapeat;
+   }
+   section{
+       max-width: 1000px;
+       margin: auto;
+       padding: 30px 0;
+   }
+   section h1{
+       font-size: 40px;
+       font-weight: bold;
+       margin: 1em 0;
+   }
+   .conteiner {
+       text-align: center;
+   }
+   .conteiner p{
+       font-size: 60px;
+       font-weight: bold;
+       margin: 1.5em 0;
+   }
+   .conteiner a {
+       text-decoration: none;
+       color: darkolivegreen;
+       background: #77815c;
+       padding: 4px 20px;
+       border-radius: 3px;
+       font-size: 20px;
+       margin: 10px;
+   }
+   main {
+       background-color: darkolivegreen;
+       -webkit-box-shadow
+   }
